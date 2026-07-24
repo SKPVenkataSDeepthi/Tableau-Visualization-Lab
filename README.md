@@ -25,7 +25,7 @@
 
 This repository showcases a growing portfolio of interactive dashboards, visual analytics, business intelligence solutions, and data storytelling experiences built with Tableau.
 
-The focus extends beyond creating charts—each visualization is designed to transform raw data into meaningful insights through thoughtful dashboard design, analytical exploration, and effective communication. Every project emphasizes clarity, usability, performance, and decision support while applying modern visualization principles across diverse business domains.
+The focus extends beyond creating charts,each visualization is designed to transform raw data into meaningful insights through thoughtful dashboard design, analytical exploration, and effective communication. Every project emphasizes clarity, usability, performance, and decision support while applying modern visualization principles across diverse business domains.
 
 ---
 
