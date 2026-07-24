@@ -5,7 +5,7 @@
 ### Designing interactive dashboards, executive analytics, business intelligence solutions, and data storytelling experiences.
 
 <p align="center">
-<img src="images/tableau-banner.png" width="100%">
+<img src="https://github.com/SKPVenkataSDeepthi/Tableau-Visualization-Lab/blob/main/Images/Hero%20Banner.png">
 </p>
 
 <p>
@@ -33,7 +33,7 @@ The focus extends beyond creating charts—each visualization is designed to tra
 
 <p align="center">
 
-<img src="images/tableau-roadmap.png" width="95%">
+<img src="https://github.com/SKPVenkataSDeepthi/Tableau-Visualization-Lab/blob/main/Images/Visualization%20Roadmap.png" width="95%">
 
 </p>
 
@@ -148,7 +148,7 @@ tableau-visualization-lab/
 
 <p align="center">
 
-<img src="images/tableau-workspace.png" width="100%">
+<img src="https://github.com/SKPVenkataSDeepthi/Tableau-Visualization-Lab/blob/main/Images/Dashboard%20Workspace.png" width="100%">
 
 </p>
 
