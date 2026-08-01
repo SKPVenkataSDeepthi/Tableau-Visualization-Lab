@@ -1,10 +1,10 @@
-# 📊 Customer Loyalty Analytics Dashboard (Tableau)
+# Customer Loyalty Analytics Dashboard (Tableau)
 
 ![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?logo=tableau)
 ![Project](https://img.shields.io/badge/Guided%20Project-IBM%20Skills%20Network-blue)
 ![Status](https://img.shields.io/badge/Completed-success)
 
-## 📌 Overview
+## Overview
 
 This project was completed as part of the **IBM Skills Network Guided Project – Creating Charts and Dashboards using Tableau**.
 
@@ -12,15 +12,15 @@ The dashboard analyzes customer purchasing behavior, revenue generation, marketi
 
 ---
 
-## 🚀 Live Dashboard
+## Live Dashboard
 
 **Tableau Public**
 
-👉 **https://public.tableau.com/app/profile/venkatasdeepthiskp/viz/CustomerLoyaltyAnalyticsDashboard/Dashboard1**
+**https://public.tableau.com/app/profile/venkatasdeepthiskp/viz/CustomerLoyaltyAnalyticsDashboard/Dashboard1**
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Visualize revenue by geographic location
 - Analyze quantity sold across product categories
@@ -31,9 +31,9 @@ The dashboard analyzes customer purchasing behavior, revenue generation, marketi
 
 ---
 
-# 📈 Dashboard Visualizations
+# Dashboard Visualizations
 
-## 🌍 Revenue & Quantity Sold Map
+## Revenue & Quantity Sold Map
 
 **Purpose**
 
@@ -47,7 +47,7 @@ Visualize sales geographically.
 
 ---
 
-## 📊 Quantity Sold by Coupon Response
+## Quantity Sold by Coupon Response
 
 **Chart Type**
 
@@ -69,7 +69,7 @@ Column Chart
 
 ---
 
-## 🔵 Marketing Response by Department
+## Marketing Response by Department
 
 **Chart Type**
 
@@ -91,7 +91,7 @@ Circle Chart
 
 ---
 
-## 📉 Customer Lifetime Value vs Quantity Sold
+## Customer Lifetime Value vs Quantity Sold
 
 **Chart Type**
 
@@ -118,7 +118,7 @@ Dual Axis (Bar + Line)
 
 ---
 
-## 🫧 Loyalty Status Bubble Chart
+## Loyalty Status Bubble Chart
 
 **Chart Type**
 
@@ -140,7 +140,7 @@ Packed Bubble
 
 ---
 
-# 📊 Dashboard Features
+# Dashboard Features
 
 - Interactive dashboard
 - Geographic analysis
@@ -152,14 +152,14 @@ Packed Bubble
 
 ---
 
-# 🛠 Tools Used
+# Tools Used
 
 - Tableau Desktop / Tableau Public
 - IBM Skills Network Labs
 
 ---
 
-# 📚 Skills Demonstrated
+# Skills Demonstrated
 
 - Data Visualization
 - Dashboard Design
@@ -175,7 +175,7 @@ Packed Bubble
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 CustomerLoyaltyAnalyticsDashboard/
@@ -189,7 +189,7 @@ CustomerLoyaltyAnalyticsDashboard/
 
 ---
 
-# 📸 Dashboard Preview
+# Dashboard Preview
 
 > Replace this section with a screenshot of your dashboard.
 
@@ -199,7 +199,7 @@ Dashboard Screenshot Here
 
 ---
 
-# 💡 Key Business Insights
+# Key Business Insights
 
 - Geographic regions contribute differently to total revenue.
 - Coupon campaigns influence product sales across multiple product lines.
@@ -209,7 +209,7 @@ Dashboard Screenshot Here
 
 ---
 
-# 📖 Learning Outcomes
+# Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -222,7 +222,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 **Tableau Public**
 
@@ -238,4 +238,4 @@ https://www.linkedin.com/in/dvskp/
 
 ---
 
-⭐ If you found this project useful, consider giving the repository a star!
+If you found this project useful, consider giving the repository a star!
